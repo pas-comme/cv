@@ -1,0 +1,41 @@
+#menu
+{
+    background-color: silver;
+}
+#gold
+{
+    color: gold;
+}
+big
+{
+    font-size: 20px; 
+    vertical-align: top;
+    margin: 0px;
+    padding: 0;
+    text-align: left;
+}
+.panel{
+	text-align: center;
+}
+h4{
+	color: blue;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	margin: 12% 0 1% 0;
+}
+h6{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+em{
+    padding:6px 0 0 0;
+    margin: 0%;
+    text-align: center;
+}
+.panel-body{
+	padding:0;
+    margin: 0%;
+}
