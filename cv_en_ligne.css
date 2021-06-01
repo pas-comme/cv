@@ -1,0 +1,99 @@
+body
+{
+    background-color : silver;
+}
+#gold
+{
+    color:yellow;
+}
+big
+{
+    font-size: 25px; 
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px
+}
+.nav-stacked
+{
+    margin-top: 40%;
+    margin-left: 25%;
+    text-align: left;
+}
+.panel
+{
+    color: black; 
+}
+.panel-primary
+{
+    background-color: brown;
+    margin: 0%;
+
+}
+ul{
+	text-align: left;
+}
+em{
+    padding:13px 0 0 0;
+    margin: 0%;
+}
+.table h4{
+    text-align: center;
+    font-weight: bold;
+    font-family: arial black; 
+}#education{
+    margin: 0%; 
+    padding:0%;
+    text-align: center;
+}
+#about * {
+	background-color: white;
+	text-align : center;
+}
+#about h4{
+	color: blue;
+	text-decoration: underline; 
+}
+abbr{
+	color: blue;
+}
+#contacte * {
+	font-size: 18px;
+	margin: 1%;
+}
+.icon{
+  display: inline-block;
+  background: #212431;
+  color: #fff;
+  padding: 2%;
+  margin-right: 1%;
+  border-radius: 50%;
+  text-align: center;
+}
+.img-circle{
+	width: 60%;
+	margin: 7%
+
+}
+.icofont-basketball{
+	color: orange;
+	font-size: 35px;
+	display: block;
+}
+.icofont-game{
+	color: brown;
+	font-size : 35px;
+	display: block;
+	
+}
+.icofont-car{
+	color: green;
+	font-size : 35px;
+	display: block;
+}
+#about{
+	background-color: white;
+	padding-bottom: 5%;
+}
+
+
+
