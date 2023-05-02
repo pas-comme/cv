@@ -1,0 +1,68 @@
+#menu
+{
+    background-color: silver;
+}
+.img-circle{
+	width: 80%;
+	margin-bottom: 5%;
+	margin-top: 2%
+}
+#gold
+{
+    color: gold;
+}
+big
+{
+    font-size: 20px; 
+    vertical-align: top;
+    margin: 0px;
+    padding: 0;
+    text-align: left;
+}
+.panel{
+	text-align: center;
+}
+h4{
+	color: blue;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	margin: 12% 0 1% 0;
+}
+h6{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+em{
+    padding:6px 0 0 0;
+    margin: 0%;
+    text-align: center;
+}
+abbr{
+	color: blue;
+}
+#loisir{
+	margin-bottom: 15%;
+	text-align : center;
+}
+ul{
+	text-align: left;
+}
+.icofont-basketball{
+	font-size: 25px;
+	display: block;
+}
+.icofont-game{	
+	font-size : 25px;
+	display: block;	
+}
+.icofont-car{
+	font-size : 25px;
+	display: block;
+}
+#info, #contact{
+	margin-left: 3%;
+	font-size: 20px;
+}
